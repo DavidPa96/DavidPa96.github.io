@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+
+.navbar-brand {
+  font-family: "Satisfy", cursive;
+  font-size: 1.8em;
+}
+.navbar-dark .navbar-brand {
+  color: #f7fff7;
+}
+
+.navbar-dark {
+  background: #206456;
+}
+
+/* Principal */
+.principal {
+  /* background-color: #79c5c0; */
+  height: 80vh;
+  width: auto;
+  background-size: cover;
+}
+
+/* Titulo principal */
+.h1-principal {
+  margin-top: 20vh;
+  text-align: center;
+  font-family: "Satisfy", cursive;
+  font-size: 4em;
+}
+
+/* P principal */
+.p-principal {
+  text-align: center;
+  font-weight: 700;
+}
+
+/* Boton Principal */
+.boton-principal {
+  text-align: center;
+}
+.btn-warning {
+  background: #c414ca;
+  border-style: none;
+  color: white;
+}
+
+/* Conocenos */
+.h1-about {
+  margin-top: 15px;
+  text-align: center;
+  font-family: "Satisfy", cursive;
+  font-size: 4em;
+}
+
+.h2-about {
+  text-align: center;
+
+  font-family: "Satisfy", cursive;
+  font-size: 4em;
+}
+
+hr {
+  color: #c414ca;
+  size: 8px;
+}
+
+.p-about {
+  text-align: justify;
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+.title-color {
+  color: #7f0e83;
+  /* text-align: center; */
+  font-weight: 700;
+  font-size: 1.5rem;
+}
